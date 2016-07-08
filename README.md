@@ -11,3 +11,8 @@
 - PROGRAMACION JAVA Y SOLUCIONES
 - PLATAFORMA DE JAVA
 - TRABAJO DE JAVA
+
+## clase 2
+-objetos y clase
+
+## clase 3
